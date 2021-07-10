@@ -1,0 +1,10 @@
+{
+  "name": "@alphaxp/stylelint-config",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "stylelint": ">= 13",
+    "stylelint-config-prettier": ">= 8",
+    "stylelint-config-standard": ">= 22",
+    "stylelint-order": ">= 4"
+  }
+}

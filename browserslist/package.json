@@ -1,0 +1,7 @@
+{
+  "name": "@alphaxp/browserslist-config",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "browserslist": ">= 4"
+  }
+}
